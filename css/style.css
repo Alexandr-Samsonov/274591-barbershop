@@ -1,0 +1,23 @@
+body {
+	font-family: "Sans Narrow", "Arial", serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: rgba(0, 0, 0);
+	line-height: 24px;
+}
+
+h2 .index-content-title {
+	font-family: "Sans Narrow", "Arial", serif;
+	font-size: 30px;
+	font-weight: bold;
+	color: rgba(0, 0, 0);
+	line-height: 42px;
+}
+
+h2 .index-filters-title {
+	font-family: "Sans Narrow", "Arial", serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: rgba(0, 0, 0);
+	line-height: 30px;
+}
