@@ -6,7 +6,7 @@ body {
 	line-height: 24px;
 }
 
-h2 .index-content-title {
+.index-content-title {
 	font-family: "Sans Narrow", "Arial", serif;
 	font-size: 30px;
 	font-weight: bold;
@@ -14,7 +14,7 @@ h2 .index-content-title {
 	line-height: 42px;
 }
 
-h2 .index-filters-title {
+.index-filters-title {
 	font-family: "Sans Narrow", "Arial", serif;
 	font-size: 24px;
 	font-weight: bold;
