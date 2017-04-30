@@ -6,6 +6,136 @@ body {
 	line-height: 24px;
 }
 
+.clearfix::after {
+	content: "";
+	
+	display: table;
+	clear: both;
+}
+
+.container {
+	width: 940px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.main-header {
+	margin-bottom: 60px;
+}
+
+.main-navigation {
+	float: left;
+	width: 780px;
+}
+
+.user-block {
+	float: right;
+	width: 140px;
+}
+
+.index-logo {
+	width: 368px;
+	height: 204px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 25px;
+}
+
+.features {
+	margin-bottom: 80px;
+}
+
+.features-item {
+	float: left;
+	width: 300px;
+	margin-right: 20px;
+}
+
+.features-item:last-child {
+	margin-right: 0;
+}
+
+.index-content {
+	margin-bottom: 35px;
+	padding: 50px 80px;
+}
+
+.index-content-left {
+	float: left;
+	width: 380px;
+}
+
+.index-content-right {
+	float: right;
+	width: 300px;
+}
+
+.home-page {
+	float: left;
+	width: 140px;
+}
+
+.main-navigation-two {
+	float: left;
+	width: 640px;
+}
+
+.breadcrumbs {
+	margin-bottom: 55px;
+}
+
+.block-item {
+	margin-bottom: 40px;
+}
+
+.block-item-left {
+	float: left;
+	width: 480px;
+}
+
+.block-item-right {
+	float: right;
+	width: 400px;
+}
+
+.block-left {
+	float: left;
+	width: 215px;
+}
+
+.navigation-page {
+	width: 230px;
+	margin-left: 230px;
+	margin-top: 40px;
+}
+
+.block-right {
+	float: right;
+	width: 720px;
+}
+
+.main-footer {
+	margin-top: 65px;
+	padding-top: 60px;
+	padding-bottom: 40px;
+}
+
+.footer-contacts {
+	float: left;
+	width: 320px;
+	margin-right: 60px;
+}
+
+.footer-social {
+	float: left;
+	width: 180px;
+}
+
+.footer-copyright {
+	float: right;
+	width: 180px;
+}
+
 .index-content-title {
 	font-family: "Sans Narrow", "Arial", serif;
 	font-size: 30px;
